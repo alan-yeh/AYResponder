@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'AYResponder_Example' do
+  pod 'AYResponder', :path => '../'
+
+  target 'AYResponder_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

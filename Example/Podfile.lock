@@ -1,0 +1,16 @@
+PODS:
+  - AYResponder (1.0.0)
+
+DEPENDENCIES:
+  - AYResponder (from `../`)
+
+EXTERNAL SOURCES:
+  AYResponder:
+    :path: ../
+
+SPEC CHECKSUMS:
+  AYResponder: 83047db01ddf5431b80a2293cf5705589d84e0c2
+
+PODFILE CHECKSUM: 94930a9fab61a2ebe6292e69098e5405a4f63080
+
+COCOAPODS: 1.0.0
